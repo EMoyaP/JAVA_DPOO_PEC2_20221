@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.TextAnalysisTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-01T09:09:50" hostname="VIVOBOOK_UGE" time="0.031">
+  <properties/>
+  <testcase name="testIsIncluded()" classname="edu.uoc.pac2.TextAnalysisTest" time="0.016"/>
+  <testcase name="testGetAverageSentenceLength()" classname="edu.uoc.pac2.TextAnalysisTest" time="0.007"/>
+  <testcase name="testGetBagOfWords()" classname="edu.uoc.pac2.TextAnalysisTest" time="0.005"/>
+  <testcase name="testNormalizeSentenceEndSymbols()" classname="edu.uoc.pac2.TextAnalysisTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

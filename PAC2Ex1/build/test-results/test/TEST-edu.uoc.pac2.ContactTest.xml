@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.ContactTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-01T08:35:47" hostname="VIVOBOOK_UGE" time="0.046">
+  <properties/>
+  <testcase name="testSetBirthday()" classname="edu.uoc.pac2.ContactTest" time="0.021"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac2.ContactTest" time="0.003"/>
+  <testcase name="testGetId()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testSetSurname2()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testContactDefault()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testSetSurname()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testContact()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testGetAge()" classname="edu.uoc.pac2.ContactTest" time="0.009"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <testcase name="testSetEmailPriority()" classname="edu.uoc.pac2.ContactTest" time="0.002"/>
+  <testcase name="testSetName()" classname="edu.uoc.pac2.ContactTest" time="0.002"/>
+  <testcase name="testSetGroup()" classname="edu.uoc.pac2.ContactTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
